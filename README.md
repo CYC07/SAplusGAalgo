@@ -5,7 +5,7 @@ Then we create a hybrid of these two algos.
   **GENETIC ALGORITHM**
 
 **Pros of Genetic Algo:**  
-  GAs are excellent at exploring large, complex, and multi-modal search spaces.
+   GAs are excellent at exploring large, complex, and multi-modal search spaces.
   GAs can be applied to a wide range of problems, including those with complex and poorly understood fitness landscapes.     They are versatile and can be used for both combinatorial optimization problems
   GAs can adapt to changes in the problem space.
   GAs work with a population of solutions, the evaluations of different solutions can be done in parallel.
